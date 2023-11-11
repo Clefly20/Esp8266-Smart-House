@@ -1,2 +1,4 @@
-# Esp8266-Smart-House-
-HTML / CSS / Website / WebSocket / 
+# Esp8266-Smart-Home
+HTML / CSS / Website / WebSocket Server
+
+You can build your Local Home automation system 
